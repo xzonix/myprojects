@@ -1,10 +1,9 @@
 <!-- data:start -->
-# 💸 Free For Life
-A massive list including a huge amount of products and services that are completely free!
+# ✨ Fran's projects
+This is a list of all my projects!
 
 ⭐ [Star on GitHub](https://github.com/xzonix/myprojects)
 &bull;
-## APIs, Data and ML
 
 | Website | Description |
 |:-:|-|
